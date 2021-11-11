@@ -2,9 +2,9 @@
 
 
 Demo
+Azure Services Used = Azure-WebAppDeployer, Visual Studio Code, Azure API
 
-
-Azure published - https://dappdemo.azurewebsites.net/ - Register with your information and check the app flow OR you can just login with an existing user lola/password
+Azure published - https://dappdemo.azurewebsites.net/ 
 
 
 
@@ -15,7 +15,7 @@ Azure published - https://dappdemo.azurewebsites.net/ - Register with your infor
 ![2020-08-03 (5)](https://user-images.githubusercontent.com/48589838/89154207-113f9380-d584-11ea-83d8-cc3f3cea5ca7.png)
 
 
-Dating App ( Angular 9 / .Net WebAPI Core (v 3.0) / Entity Framework core ( v 3.0) / SQL Server)
+Dating App Deployed Using Azure
 
 - Identity and Role Management
 
