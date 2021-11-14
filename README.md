@@ -1,11 +1,11 @@
-# DatingApp
-
+# Azure WebApp/WebSite Project
+Azure Made us easy to deploy WebApp/WebSite with best security, stability & optimize web automatically which can solve Health,Educational institutes to reduce their costs by using Azure
 
 Demo
 Azure Services Used = Azure-WebAppDeployer, Visual Studio Code, Azure API
 
 Azure published - https://dappdemo.azurewebsites.net/ 
-
+I Have deployed an Dating Site on Azure which can Drag and drop photo upload integration into a cloud platform (Azure cloudinary) Used AutoMapper in webapi core
 
 
 ![2020-08-03](https://user-images.githubusercontent.com/48589838/89154120-e9503000-d583-11ea-979e-7f1b832365d5.png)
