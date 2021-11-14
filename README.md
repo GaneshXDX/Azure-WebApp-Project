@@ -5,6 +5,7 @@ Demo
 Azure Services Used = Azure-WebAppDeployer, Visual Studio Code, Azure API
 
 Azure published - https://dappdemo.azurewebsites.net/ 
+
 I Have deployed an Dating Site on Azure which can Drag and drop photo upload integration into a cloud platform (Azure cloudinary) Used AutoMapper in webapi core
 
 
